@@ -79,6 +79,6 @@ Adding auto blocking of all adulting porn sites
 
 
 ## DOWNLOAD HERE
-![ dns blocker](kolikodns_app.png)[Download .exe](kolilo_dns.exe"download")
+![ dns blocker](kolikodns_app.png)[Download .exe](https://github.com/kojoedem/kokiko_dns_blocker/blob/main/kolilo_dns.exe "download")
 
-![ dns blocker](kolikodns_app.png)[Download other](kolilo_dns "download") 
+![ dns blocker](kolikodns_app.png)[Download other](https://github.com/kojoedem/kokiko_dns_blocker/blob/main/koliko_dns "download")
