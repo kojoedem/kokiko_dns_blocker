@@ -1,6 +1,6 @@
 
 # KOKLIKO DNS Blocker
-![ dns blocker](mikrotik_automation/kolikodns.png)
+![ dns blocker](kolikodns.png)
 
 ## Overview
 KOKLIKO DNS Blocker is a small but powerful desktop application that enables MikroTik users to easily manage website filtering functionality on their routers. Designed to empower non-technical users, the app simplifies the process of blocking and unblocking specific websites during working hours or at any preferred time.
@@ -79,4 +79,4 @@ Adding auto blocking of all adulting porn sites
 
 
 
-![ dns blocker](mikrotik_automation/kolikodns_app.png)
+![ dns blocker](kolikodns_app.png)
